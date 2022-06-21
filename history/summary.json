@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 58,
+      "2022-06-21": 395,
       "2022-06-20": 1440,
       "2022-06-19": 173
     }
@@ -26,18 +26,20 @@
     "url": "https://license.dnz.wtf",
     "icon": "https://favicons.githubusercontent.com/license.dnz.wtf",
     "slug": "license-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 857,
-    "timeDay": 1155,
-    "timeWeek": 857,
-    "timeMonth": 857,
-    "timeYear": 857,
-    "dailyMinutesDown": {}
+    "time": 831,
+    "timeDay": 930,
+    "timeWeek": 831,
+    "timeMonth": 831,
+    "timeYear": 831,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "License API Endpoint 1",
