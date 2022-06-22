@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-21": 427,
+      "2022-06-22": 63,
+      "2022-06-21": 1440,
       "2022-06-20": 1440,
       "2022-06-19": 173
     }
@@ -27,16 +28,16 @@
     "icon": "https://favicons.githubusercontent.com/license.dnz.wtf",
     "slug": "license-panel",
     "status": "up",
-    "uptime": "98.44%",
+    "uptime": "98.98%",
     "uptimeDay": "97.79%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
-    "time": 866,
-    "timeDay": 979,
-    "timeWeek": 866,
-    "timeMonth": 866,
-    "timeYear": 866,
+    "uptimeWeek": "98.98%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
+    "time": 854,
+    "timeDay": 850,
+    "timeWeek": 854,
+    "timeMonth": 854,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2022-06-21": 32
     }
@@ -52,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 161,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "time": 116,
+    "timeDay": 108,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   }
 ]
