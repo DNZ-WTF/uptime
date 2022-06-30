@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-30": 55,
+      "2022-06-30": 179,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
@@ -55,9 +55,9 @@
     "url": "https://license.dnz.wtf/auth/api",
     "icon": "https://favicons.githubusercontent.com/license.dnz.wtf",
     "slug": "license-api-endpoint-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -66,6 +66,8 @@
     "timeWeek": 132,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-30": 0
+    }
   }
 ]
